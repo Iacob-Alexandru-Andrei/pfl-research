@@ -21,7 +21,7 @@ central_num_iterations: 5000
 local_batch_size: 16
 local_num_epochs: 2
 local_learning_rate: 0.01
-evaluation_frequency: 20
+evaluation_frequency: 99999999999
 central_eval_batch_size: 512
 pretrained: true
 #save_model_path: './checkpoints'

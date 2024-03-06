@@ -169,3 +169,7 @@ docs/build
 benchmarks/data
 benchmarks/checkpoints/
 benchmarks/metrics.csv
+
+*.csv
+
+pfl_image_classification_6_workers_1_GPU.txt

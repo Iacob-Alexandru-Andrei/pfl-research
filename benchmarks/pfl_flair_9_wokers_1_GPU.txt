@@ -1,0 +1,1024 @@
+[8]<stdout>:2024-03-06 16:08:00,425 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[8]<stdout>:2024-03-06 16:08:00,426 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[8]<stdout>:2024-03-06 16:08:00,426 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[8]<stdout>:2024-03-06 16:08:00,426 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[0]<stdout>:2024-03-06 16:08:00,431 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[0]<stdout>:2024-03-06 16:08:00,431 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[0]<stdout>:2024-03-06 16:08:00,432 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[0]<stdout>:2024-03-06 16:08:00,432 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[5]<stdout>:2024-03-06 16:08:00,433 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[5]<stdout>:2024-03-06 16:08:00,434 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[5]<stdout>:2024-03-06 16:08:00,434 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[5]<stdout>:2024-03-06 16:08:00,434 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[3]<stdout>:2024-03-06 16:08:00,439 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[3]<stdout>:2024-03-06 16:08:00,439 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[3]<stdout>:2024-03-06 16:08:00,439 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[3]<stdout>:2024-03-06 16:08:00,439 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[1]<stdout>:2024-03-06 16:08:00,443 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[1]<stdout>:2024-03-06 16:08:00,443 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[1]<stdout>:2024-03-06 16:08:00,443 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[1]<stdout>:2024-03-06 16:08:00,443 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[2]<stdout>:2024-03-06 16:08:00,444 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[2]<stdout>:2024-03-06 16:08:00,444 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[2]<stdout>:2024-03-06 16:08:00,444 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[2]<stdout>:2024-03-06 16:08:00,444 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[4]<stdout>:2024-03-06 16:08:00,448 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[4]<stdout>:2024-03-06 16:08:00,448 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[4]<stdout>:2024-03-06 16:08:00,448 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[4]<stdout>:2024-03-06 16:08:00,449 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[7]<stdout>:2024-03-06 16:08:00,449 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[7]<stdout>:2024-03-06 16:08:00,449 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[7]<stdout>:2024-03-06 16:08:00,449 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[7]<stdout>:2024-03-06 16:08:00,449 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[8]<stdout>:2024-03-06 16:08:00,450 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[6]<stdout>:2024-03-06 16:08:00,454 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[6]<stdout>:2024-03-06 16:08:00,454 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[6]<stdout>:2024-03-06 16:08:00,454 DEBUG: __init__.py:47: Creating converter from 7 to 5
+[6]<stdout>:2024-03-06 16:08:00,454 DEBUG: __init__.py:47: Creating converter from 5 to 7
+[5]<stdout>:2024-03-06 16:08:00,454 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[0]<stdout>:2024-03-06 16:08:00,454 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[1]<stdout>:2024-03-06 16:08:00,464 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[3]<stdout>:2024-03-06 16:08:00,460 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[2]<stdout>:2024-03-06 16:08:00,468 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[4]<stdout>:2024-03-06 16:08:00,470 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[7]<stdout>:2024-03-06 16:08:00,473 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[6]<stdout>:2024-03-06 16:08:00,482 DEBUG: dataset.py:823: Creating converter from 3 to 5
+[0]<stdout>:2024-03-06 16:10:03,923 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[0]<stdout>:2024-03-06 16:10:03,939 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[1]<stdout>:2024-03-06 16:10:04,207 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[1]<stdout>:2024-03-06 16:10:04,223 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[7]<stdout>:2024-03-06 16:10:05,047 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[7]<stdout>:2024-03-06 16:10:05,051 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[4]<stdout>:2024-03-06 16:10:05,385 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[4]<stdout>:2024-03-06 16:10:05,386 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[2]<stdout>:2024-03-06 16:10:06,477 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[2]<stdout>:2024-03-06 16:10:06,478 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[3]<stdout>:2024-03-06 16:10:07,409 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[3]<stdout>:2024-03-06 16:10:07,409 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[6]<stdout>:2024-03-06 16:10:07,528 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[6]<stdout>:2024-03-06 16:10:07,529 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[8]<stdout>:2024-03-06 16:10:08,187 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[8]<stdout>:2024-03-06 16:10:08,188 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[5]<stdout>:2024-03-06 16:10:09,160 INFO: argument_parsing.py:543: initializing algorithm fedavg
+[5]<stdout>:2024-03-06 16:10:09,161 INFO: argument_parsing.py:594: using algorithm parameters NNAlgorithmParams(central_num_iterations=5000, evaluation_frequency=99999999999, train_cohort_size=200, val_cohort_size=0)
+[1]<stdout>:2024-03-06 16:11:25,517 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[2]<stdout>:2024-03-06 16:11:27,506 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[0]<stdout>:2024-03-06 16:11:28,179 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[4]<stdout>:2024-03-06 16:11:28,864 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[7]<stdout>:2024-03-06 16:11:29,655 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[3]<stdout>:2024-03-06 16:11:29,692 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[8]<stdout>:2024-03-06 16:11:29,951 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[6]<stdout>:2024-03-06 16:11:30,919 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[5]<stdout>:2024-03-06 16:11:33,622 DEBUG: selector_events.py:54: Using selector: EpollSelector
+[0]<stdout>:Metrics at iteration 0 ():
+[0]<stdout>:    Central val | micro loss                          : 0.778678100283444
+[0]<stdout>:    Central val | micro accuracy                      : 0.45712324023368106
+[0]<stdout>:    Central val | micro precision                     : 0.20316041328840934
+[0]<stdout>:    Central val | micro recall                        : 0.8047182296920842
+[0]<stdout>:    Central val | micro AP                            : 0.22094147222615004
+[0]<stdout>:    Central val | macro loss                          : 0.7786781105312578
+[0]<stdout>:    Central val | macro accuracy                      : 0.45712324023368106
+[0]<stdout>:    Central val | macro precision                     : 0.17013070777226583
+[0]<stdout>:    Central val | macro recall                        : 0.6526014053350616
+[0]<stdout>:    Central val | macro AP                            : 0.17530395061499418
+[0]<stdout>:    Central val | number of data points               : 39239
+[0]<stdout>:    Train population | macro AP after local training  : 0.4333937466144562
+[0]<stdout>:    Train population | macro AP before local training : 0.19135335087776184
+[0]<stdout>:    Train population | macro accuracy after local training: 0.8366765379905701
+[0]<stdout>:    Train population | macro accuracy before local training: 0.46581393480300903
+[0]<stdout>:    Train population | macro loss after local training: 0.3914412558078766
+[0]<stdout>:    Train population | macro loss before local training: 0.7697497606277466
+[0]<stdout>:    Train population | macro precision after local training: 0.3343982398509979
+[0]<stdout>:    Train population | macro precision before local training: 0.17285019159317017
+[0]<stdout>:    Train population | macro recall after local training: 0.5906279683113098
+[0]<stdout>:    Train population | macro recall before local training: 0.6147546172142029
+[0]<stdout>:    Train population | micro AP after local training  : 0.6917076706886292
+[0]<stdout>:    Train population | micro AP before local training : 0.23786884546279907
+[0]<stdout>:    Train population | micro accuracy after local training: 0.836676524031781
+[0]<stdout>:    Train population | micro accuracy before local training: 0.46581394520255104
+[0]<stdout>:    Train population | micro loss after local training: 0.39144123186259666
+[0]<stdout>:    Train population | micro loss before local training: 0.7697497561638222
+[0]<stdout>:    Train population | micro precision after local training: 0.5011732229123533
+[0]<stdout>:    Train population | micro precision before local training: 0.2118136439267887
+[0]<stdout>:    Train population | micro recall after local training: 0.789176266029124
+[0]<stdout>:    Train population | micro recall before local training: 0.8300369484894589
+[0]<stdout>:    Train population | number of data points          : 8.255
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0033333333333333335
+[0]<stdout>:    Current_time                                      : 1709741498.2561212
+[0]<stdout>:    Overall time elapsed (min)                        : 0.17
+[0]<stdout>:    Duration of iteration (s)                         : 10.08
+[0]<stdout>:    Overall average duration of iteration (s)         : 10.08
+[0]<stdout>:    Central val | macro AP | best overall             : 0.17530395061499418
+[0]<stdout>:Metrics at iteration 1 ():
+[0]<stdout>:    Train population | number of data points          : 6.49
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.006666666666666667
+[0]<stdout>:    Current_time                                      : 1709741503.1613214
+[0]<stdout>:    Overall time elapsed (min)                        : 0.25
+[0]<stdout>:    Duration of iteration (s)                         : 4.91
+[0]<stdout>:    Overall average duration of iteration (s)         : 7.49
+[0]<stdout>:Metrics at iteration 2 ():
+[0]<stdout>:    Train population | number of data points          : 8.295
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.010000000000000002
+[0]<stdout>:    Current_time                                      : 1709741509.1159363
+[0]<stdout>:    Overall time elapsed (min)                        : 0.35
+[0]<stdout>:    Duration of iteration (s)                         : 5.95
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.98
+[0]<stdout>:Metrics at iteration 3 ():
+[0]<stdout>:    Train population | number of data points          : 11.67
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.013333333333333334
+[0]<stdout>:    Current_time                                      : 1709741516.3491008
+[0]<stdout>:    Overall time elapsed (min)                        : 0.47
+[0]<stdout>:    Duration of iteration (s)                         : 7.23
+[0]<stdout>:    Overall average duration of iteration (s)         : 7.04
+[0]<stdout>:Metrics at iteration 4 ():
+[0]<stdout>:    Train population | number of data points          : 8.38
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.016666666666666666
+[0]<stdout>:    Current_time                                      : 1709741522.330965
+[0]<stdout>:    Overall time elapsed (min)                        : 0.57
+[0]<stdout>:    Duration of iteration (s)                         : 5.98
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.83
+[0]<stdout>:Metrics at iteration 5 ():
+[0]<stdout>:    Train population | number of data points          : 9.48
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.020000000000000004
+[0]<stdout>:    Current_time                                      : 1709741528.709169
+[0]<stdout>:    Overall time elapsed (min)                        : 0.68
+[0]<stdout>:    Duration of iteration (s)                         : 6.38
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.76
+[0]<stdout>:Metrics at iteration 6 ():
+[0]<stdout>:    Train population | number of data points          : 6.435
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.023333333333333334
+[0]<stdout>:    Current_time                                      : 1709741533.6656091
+[0]<stdout>:    Overall time elapsed (min)                        : 0.76
+[0]<stdout>:    Duration of iteration (s)                         : 4.96
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.5
+[0]<stdout>:Metrics at iteration 7 ():
+[0]<stdout>:    Train population | number of data points          : 5.615
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.02666666666666667
+[0]<stdout>:    Current_time                                      : 1709741537.9616086
+[0]<stdout>:    Overall time elapsed (min)                        : 0.83
+[0]<stdout>:    Duration of iteration (s)                         : 4.3
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.22
+[0]<stdout>:Metrics at iteration 8 ():
+[0]<stdout>:    Train population | number of data points          : 6.105
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.03
+[0]<stdout>:    Current_time                                      : 1709741542.4524553
+[0]<stdout>:    Overall time elapsed (min)                        : 0.9
+[0]<stdout>:    Duration of iteration (s)                         : 4.49
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.03
+[0]<stdout>:Metrics at iteration 9 ():
+[0]<stdout>:    Train population | number of data points          : 8.725
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.03333333333333333
+[0]<stdout>:    Current_time                                      : 1709741548.2835252
+[0]<stdout>:    Overall time elapsed (min)                        : 1.0
+[0]<stdout>:    Duration of iteration (s)                         : 5.83
+[0]<stdout>:    Overall average duration of iteration (s)         : 6.01
+[0]<stdout>:Metrics at iteration 10 ():
+[0]<stdout>:    Train population | number of data points          : 5.125
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.03666666666666667
+[0]<stdout>:    Current_time                                      : 1709741552.3616447
+[0]<stdout>:    Overall time elapsed (min)                        : 1.07
+[0]<stdout>:    Duration of iteration (s)                         : 4.08
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.83
+[0]<stdout>:Metrics at iteration 11 ():
+[0]<stdout>:    Train population | number of data points          : 7.955
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.04000000000000001
+[0]<stdout>:    Current_time                                      : 1709741557.8197079
+[0]<stdout>:    Overall time elapsed (min)                        : 1.16
+[0]<stdout>:    Duration of iteration (s)                         : 5.46
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.8
+[0]<stdout>:Metrics at iteration 12 ():
+[0]<stdout>:    Train population | number of data points          : 9.335
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.043333333333333335
+[0]<stdout>:    Current_time                                      : 1709741564.2123754
+[0]<stdout>:    Overall time elapsed (min)                        : 1.27
+[0]<stdout>:    Duration of iteration (s)                         : 6.39
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.85
+[0]<stdout>:Metrics at iteration 13 ():
+[0]<stdout>:    Train population | number of data points          : 7.32
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.04666666666666667
+[0]<stdout>:    Current_time                                      : 1709741569.5604913
+[0]<stdout>:    Overall time elapsed (min)                        : 1.36
+[0]<stdout>:    Duration of iteration (s)                         : 5.35
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.81
+[0]<stdout>:Metrics at iteration 14 ():
+[0]<stdout>:    Train population | number of data points          : 4.295
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.05
+[0]<stdout>:    Current_time                                      : 1709741573.8994908
+[0]<stdout>:    Overall time elapsed (min)                        : 1.43
+[0]<stdout>:    Duration of iteration (s)                         : 4.34
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.71
+[0]<stdout>:Metrics at iteration 15 ():
+[0]<stdout>:    Train population | number of data points          : 5.87
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.05333333333333334
+[0]<stdout>:    Current_time                                      : 1709741578.554606
+[0]<stdout>:    Overall time elapsed (min)                        : 1.51
+[0]<stdout>:    Duration of iteration (s)                         : 4.66
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.65
+[0]<stdout>:Metrics at iteration 16 ():
+[0]<stdout>:    Train population | number of data points          : 4.01
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.05666666666666667
+[0]<stdout>:    Current_time                                      : 1709741582.4296393
+[0]<stdout>:    Overall time elapsed (min)                        : 1.57
+[0]<stdout>:    Duration of iteration (s)                         : 3.88
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.54
+[0]<stdout>:Metrics at iteration 17 ():
+[0]<stdout>:    Train population | number of data points          : 6.67
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.06
+[0]<stdout>:    Current_time                                      : 1709741587.3609717
+[0]<stdout>:    Overall time elapsed (min)                        : 1.65
+[0]<stdout>:    Duration of iteration (s)                         : 4.93
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.51
+[0]<stdout>:Metrics at iteration 18 ():
+[0]<stdout>:    Train population | number of data points          : 6.605
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.06333333333333334
+[0]<stdout>:    Current_time                                      : 1709741591.8797696
+[0]<stdout>:    Overall time elapsed (min)                        : 1.73
+[0]<stdout>:    Duration of iteration (s)                         : 4.52
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.46
+[0]<stdout>:Metrics at iteration 19 ():
+[0]<stdout>:    Train population | number of data points          : 10.245
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.06666666666666667
+[0]<stdout>:    Current_time                                      : 1709741598.414455
+[0]<stdout>:    Overall time elapsed (min)                        : 1.84
+[0]<stdout>:    Duration of iteration (s)                         : 6.53
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.51
+[0]<stdout>:Metrics at iteration 20 ():
+[0]<stdout>:    Train population | number of data points          : 6.28
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.06999999999999999
+[0]<stdout>:    Current_time                                      : 1709741602.9847622
+[0]<stdout>:    Overall time elapsed (min)                        : 1.91
+[0]<stdout>:    Duration of iteration (s)                         : 4.57
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.47
+[0]<stdout>:Metrics at iteration 21 ():
+[0]<stdout>:    Train population | number of data points          : 5.93
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.07333333333333333
+[0]<stdout>:    Current_time                                      : 1709741607.4807737
+[0]<stdout>:    Overall time elapsed (min)                        : 1.99
+[0]<stdout>:    Duration of iteration (s)                         : 4.5
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.42
+[0]<stdout>:Metrics at iteration 22 ():
+[0]<stdout>:    Train population | number of data points          : 7.7
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.07666666666666667
+[0]<stdout>:    Current_time                                      : 1709741612.479334
+[0]<stdout>:    Overall time elapsed (min)                        : 2.07
+[0]<stdout>:    Duration of iteration (s)                         : 5.0
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.4
+[0]<stdout>:Metrics at iteration 23 ():
+[0]<stdout>:    Train population | number of data points          : 5.645
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.08000000000000002
+[0]<stdout>:    Current_time                                      : 1709741616.7465472
+[0]<stdout>:    Overall time elapsed (min)                        : 2.14
+[0]<stdout>:    Duration of iteration (s)                         : 4.27
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.36
+[0]<stdout>:Metrics at iteration 24 ():
+[0]<stdout>:    Train population | number of data points          : 5.775
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.08333333333333334
+[0]<stdout>:    Current_time                                      : 1709741621.1936934
+[0]<stdout>:    Overall time elapsed (min)                        : 2.22
+[0]<stdout>:    Duration of iteration (s)                         : 4.45
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.32
+[0]<stdout>:Metrics at iteration 25 ():
+[0]<stdout>:    Train population | number of data points          : 4.695
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.08666666666666667
+[0]<stdout>:    Current_time                                      : 1709741624.9915166
+[0]<stdout>:    Overall time elapsed (min)                        : 2.28
+[0]<stdout>:    Duration of iteration (s)                         : 3.8
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 26 ():
+[0]<stdout>:    Train population | number of data points          : 5.235
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09000000000000001
+[0]<stdout>:    Current_time                                      : 1709741629.235359
+[0]<stdout>:    Overall time elapsed (min)                        : 2.35
+[0]<stdout>:    Duration of iteration (s)                         : 4.24
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 27 ():
+[0]<stdout>:    Train population | number of data points          : 6.03
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09333333333333334
+[0]<stdout>:    Current_time                                      : 1709741633.5124252
+[0]<stdout>:    Overall time elapsed (min)                        : 2.42
+[0]<stdout>:    Duration of iteration (s)                         : 4.28
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.19
+[0]<stdout>:Metrics at iteration 28 ():
+[0]<stdout>:    Train population | number of data points          : 8.545
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09666666666666668
+[0]<stdout>:    Current_time                                      : 1709741639.5216837
+[0]<stdout>:    Overall time elapsed (min)                        : 2.52
+[0]<stdout>:    Duration of iteration (s)                         : 6.01
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 29 ():
+[0]<stdout>:    Train population | number of data points          : 4.965
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.1
+[0]<stdout>:    Current_time                                      : 1709741643.7724388
+[0]<stdout>:    Overall time elapsed (min)                        : 2.59
+[0]<stdout>:    Duration of iteration (s)                         : 4.25
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.19
+[0]<stdout>:Metrics at iteration 30 ():
+[0]<stdout>:    Train population | number of data points          : 5.71
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09998390342052314
+[0]<stdout>:    Current_time                                      : 1709741648.0943284
+[0]<stdout>:    Overall time elapsed (min)                        : 2.67
+[0]<stdout>:    Duration of iteration (s)                         : 4.32
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.16
+[0]<stdout>:Metrics at iteration 31 ():
+[0]<stdout>:    Train population | number of data points          : 9.66
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09996780684104628
+[0]<stdout>:    Current_time                                      : 1709741654.499527
+[0]<stdout>:    Overall time elapsed (min)                        : 2.77
+[0]<stdout>:    Duration of iteration (s)                         : 6.41
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.2
+[0]<stdout>:Metrics at iteration 32 ():
+[0]<stdout>:    Train population | number of data points          : 8.27
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09995171026156942
+[0]<stdout>:    Current_time                                      : 1709741660.3477314
+[0]<stdout>:    Overall time elapsed (min)                        : 2.87
+[0]<stdout>:    Duration of iteration (s)                         : 5.85
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 33 ():
+[0]<stdout>:    Train population | number of data points          : 7.06
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09993561368209256
+[0]<stdout>:    Current_time                                      : 1709741665.788601
+[0]<stdout>:    Overall time elapsed (min)                        : 2.96
+[0]<stdout>:    Duration of iteration (s)                         : 5.44
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 34 ():
+[0]<stdout>:    Train population | number of data points          : 4.745
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09991951710261571
+[0]<stdout>:    Current_time                                      : 1709741669.7711062
+[0]<stdout>:    Overall time elapsed (min)                        : 3.03
+[0]<stdout>:    Duration of iteration (s)                         : 3.98
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.19
+[0]<stdout>:Metrics at iteration 35 ():
+[0]<stdout>:    Train population | number of data points          : 8.185
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09990342052313883
+[0]<stdout>:    Current_time                                      : 1709741675.2291121
+[0]<stdout>:    Overall time elapsed (min)                        : 3.12
+[0]<stdout>:    Duration of iteration (s)                         : 5.46
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.2
+[0]<stdout>:Metrics at iteration 36 ():
+[0]<stdout>:    Train population | number of data points          : 5.41
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09988732394366198
+[0]<stdout>:    Current_time                                      : 1709741679.6348326
+[0]<stdout>:    Overall time elapsed (min)                        : 3.19
+[0]<stdout>:    Duration of iteration (s)                         : 4.41
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.17
+[0]<stdout>:Metrics at iteration 37 ():
+[0]<stdout>:    Train population | number of data points          : 10.3
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09987122736418512
+[0]<stdout>:    Current_time                                      : 1709741686.239208
+[0]<stdout>:    Overall time elapsed (min)                        : 3.3
+[0]<stdout>:    Duration of iteration (s)                         : 6.6
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.21
+[0]<stdout>:Metrics at iteration 38 ():
+[0]<stdout>:    Train population | number of data points          : 9.38
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09985513078470826
+[0]<stdout>:    Current_time                                      : 1709741692.0950336
+[0]<stdout>:    Overall time elapsed (min)                        : 3.4
+[0]<stdout>:    Duration of iteration (s)                         : 5.86
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.23
+[0]<stdout>:Metrics at iteration 39 ():
+[0]<stdout>:    Train population | number of data points          : 10.8
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0998390342052314
+[0]<stdout>:    Current_time                                      : 1709741699.057225
+[0]<stdout>:    Overall time elapsed (min)                        : 3.51
+[0]<stdout>:    Duration of iteration (s)                         : 6.96
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 40 ():
+[0]<stdout>:    Train population | number of data points          : 4.685
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09982293762575453
+[0]<stdout>:    Current_time                                      : 1709741702.8050187
+[0]<stdout>:    Overall time elapsed (min)                        : 3.58
+[0]<stdout>:    Duration of iteration (s)                         : 3.75
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.23
+[0]<stdout>:Metrics at iteration 41 ():
+[0]<stdout>:    Train population | number of data points          : 8.18
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09980684104627767
+[0]<stdout>:    Current_time                                      : 1709741708.7322562
+[0]<stdout>:    Overall time elapsed (min)                        : 3.68
+[0]<stdout>:    Duration of iteration (s)                         : 5.93
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 42 ():
+[0]<stdout>:    Train population | number of data points          : 7.385
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09979074446680081
+[0]<stdout>:    Current_time                                      : 1709741714.3647287
+[0]<stdout>:    Overall time elapsed (min)                        : 3.77
+[0]<stdout>:    Duration of iteration (s)                         : 5.63
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 43 ():
+[0]<stdout>:    Train population | number of data points          : 8.61
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09977464788732394
+[0]<stdout>:    Current_time                                      : 1709741720.6372778
+[0]<stdout>:    Overall time elapsed (min)                        : 3.87
+[0]<stdout>:    Duration of iteration (s)                         : 6.27
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.28
+[0]<stdout>:Metrics at iteration 44 ():
+[0]<stdout>:    Train population | number of data points          : 8.355
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0997585513078471
+[0]<stdout>:    Current_time                                      : 1709741726.1672485
+[0]<stdout>:    Overall time elapsed (min)                        : 3.97
+[0]<stdout>:    Duration of iteration (s)                         : 5.53
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.29
+[0]<stdout>:Metrics at iteration 45 ():
+[0]<stdout>:    Train population | number of data points          : 8.53
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09974245472837022
+[0]<stdout>:    Current_time                                      : 1709741732.1064074
+[0]<stdout>:    Overall time elapsed (min)                        : 4.07
+[0]<stdout>:    Duration of iteration (s)                         : 5.94
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.3
+[0]<stdout>:Metrics at iteration 46 ():
+[0]<stdout>:    Train population | number of data points          : 13.835
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09972635814889337
+[0]<stdout>:    Current_time                                      : 1709741740.0115678
+[0]<stdout>:    Overall time elapsed (min)                        : 4.2
+[0]<stdout>:    Duration of iteration (s)                         : 7.91
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.36
+[0]<stdout>:Metrics at iteration 47 ():
+[0]<stdout>:    Train population | number of data points          : 5.645
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09971026156941651
+[0]<stdout>:    Current_time                                      : 1709741744.2038555
+[0]<stdout>:    Overall time elapsed (min)                        : 4.27
+[0]<stdout>:    Duration of iteration (s)                         : 4.19
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.33
+[0]<stdout>:Metrics at iteration 48 ():
+[0]<stdout>:    Train population | number of data points          : 3.46
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09969416498993965
+[0]<stdout>:    Current_time                                      : 1709741747.388532
+[0]<stdout>:    Overall time elapsed (min)                        : 4.32
+[0]<stdout>:    Duration of iteration (s)                         : 3.18
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.29
+[0]<stdout>:Metrics at iteration 49 ():
+[0]<stdout>:    Train population | number of data points          : 4.655
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09967806841046278
+[0]<stdout>:    Current_time                                      : 1709741751.6019163
+[0]<stdout>:    Overall time elapsed (min)                        : 4.39
+[0]<stdout>:    Duration of iteration (s)                         : 4.21
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 50 ():
+[0]<stdout>:    Train population | number of data points          : 6.81
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09966197183098592
+[0]<stdout>:    Current_time                                      : 1709741757.0910275
+[0]<stdout>:    Overall time elapsed (min)                        : 4.48
+[0]<stdout>:    Duration of iteration (s)                         : 5.49
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 51 ():
+[0]<stdout>:    Train population | number of data points          : 12.035
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09964587525150906
+[0]<stdout>:    Current_time                                      : 1709741764.3656187
+[0]<stdout>:    Overall time elapsed (min)                        : 4.6
+[0]<stdout>:    Duration of iteration (s)                         : 7.27
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.31
+[0]<stdout>:Metrics at iteration 52 ():
+[0]<stdout>:    Train population | number of data points          : 7.805
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0996297786720322
+[0]<stdout>:    Current_time                                      : 1709741770.0009348
+[0]<stdout>:    Overall time elapsed (min)                        : 4.7
+[0]<stdout>:    Duration of iteration (s)                         : 5.64
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.32
+[0]<stdout>:Metrics at iteration 53 ():
+[0]<stdout>:    Train population | number of data points          : 7.055
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09961368209255533
+[0]<stdout>:    Current_time                                      : 1709741775.052909
+[0]<stdout>:    Overall time elapsed (min)                        : 4.78
+[0]<stdout>:    Duration of iteration (s)                         : 5.05
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.31
+[0]<stdout>:Metrics at iteration 54 ():
+[0]<stdout>:    Train population | number of data points          : 4.595
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09959758551307848
+[0]<stdout>:    Current_time                                      : 1709741778.7847252
+[0]<stdout>:    Overall time elapsed (min)                        : 4.84
+[0]<stdout>:    Duration of iteration (s)                         : 3.73
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.28
+[0]<stdout>:Metrics at iteration 55 ():
+[0]<stdout>:    Train population | number of data points          : 6.265
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09958148893360162
+[0]<stdout>:    Current_time                                      : 1709741783.2905033
+[0]<stdout>:    Overall time elapsed (min)                        : 4.92
+[0]<stdout>:    Duration of iteration (s)                         : 4.51
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 56 ():
+[0]<stdout>:    Train population | number of data points          : 6.96
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09956539235412475
+[0]<stdout>:    Current_time                                      : 1709741788.8180218
+[0]<stdout>:    Overall time elapsed (min)                        : 5.01
+[0]<stdout>:    Duration of iteration (s)                         : 5.53
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 57 ():
+[0]<stdout>:    Train population | number of data points          : 6.04
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0995492957746479
+[0]<stdout>:    Current_time                                      : 1709741793.082371
+[0]<stdout>:    Overall time elapsed (min)                        : 5.08
+[0]<stdout>:    Duration of iteration (s)                         : 4.26
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 58 ():
+[0]<stdout>:    Train population | number of data points          : 5.21
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09953319919517103
+[0]<stdout>:    Current_time                                      : 1709741797.0289483
+[0]<stdout>:    Overall time elapsed (min)                        : 5.15
+[0]<stdout>:    Duration of iteration (s)                         : 3.95
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.23
+[0]<stdout>:Metrics at iteration 59 ():
+[0]<stdout>:    Train population | number of data points          : 6.12
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09951710261569417
+[0]<stdout>:    Current_time                                      : 1709741801.6488068
+[0]<stdout>:    Overall time elapsed (min)                        : 5.22
+[0]<stdout>:    Duration of iteration (s)                         : 4.62
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 60 ():
+[0]<stdout>:    Train population | number of data points          : 5.705
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09950100603621731
+[0]<stdout>:    Current_time                                      : 1709741806.581865
+[0]<stdout>:    Overall time elapsed (min)                        : 5.31
+[0]<stdout>:    Duration of iteration (s)                         : 4.93
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 61 ():
+[0]<stdout>:    Train population | number of data points          : 10.97
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09948490945674045
+[0]<stdout>:    Current_time                                      : 1709741813.3400183
+[0]<stdout>:    Overall time elapsed (min)                        : 5.42
+[0]<stdout>:    Duration of iteration (s)                         : 6.76
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.24
+[0]<stdout>:Metrics at iteration 62 ():
+[0]<stdout>:    Train population | number of data points          : 9.785
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09946881287726358
+[0]<stdout>:    Current_time                                      : 1709741819.6958413
+[0]<stdout>:    Overall time elapsed (min)                        : 5.53
+[0]<stdout>:    Duration of iteration (s)                         : 6.36
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 63 ():
+[0]<stdout>:    Train population | number of data points          : 6.645
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09945271629778672
+[0]<stdout>:    Current_time                                      : 1709741824.348953
+[0]<stdout>:    Overall time elapsed (min)                        : 5.6
+[0]<stdout>:    Duration of iteration (s)                         : 4.65
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 64 ():
+[0]<stdout>:    Train population | number of data points          : 5.3
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09943661971830986
+[0]<stdout>:    Current_time                                      : 1709741828.5211523
+[0]<stdout>:    Overall time elapsed (min)                        : 5.67
+[0]<stdout>:    Duration of iteration (s)                         : 4.17
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.24
+[0]<stdout>:Metrics at iteration 65 ():
+[0]<stdout>:    Train population | number of data points          : 7.84
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09942052313883301
+[0]<stdout>:    Current_time                                      : 1709741834.348312
+[0]<stdout>:    Overall time elapsed (min)                        : 5.77
+[0]<stdout>:    Duration of iteration (s)                         : 5.83
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 66 ():
+[0]<stdout>:    Train population | number of data points          : 7.39
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09940442655935613
+[0]<stdout>:    Current_time                                      : 1709741839.926815
+[0]<stdout>:    Overall time elapsed (min)                        : 5.86
+[0]<stdout>:    Duration of iteration (s)                         : 5.58
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 67 ():
+[0]<stdout>:    Train population | number of data points          : 6.465
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09938832997987929
+[0]<stdout>:    Current_time                                      : 1709741845.1721601
+[0]<stdout>:    Overall time elapsed (min)                        : 5.95
+[0]<stdout>:    Duration of iteration (s)                         : 5.25
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 68 ():
+[0]<stdout>:    Train population | number of data points          : 10.385
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09937223340040242
+[0]<stdout>:    Current_time                                      : 1709741851.5447445
+[0]<stdout>:    Overall time elapsed (min)                        : 6.06
+[0]<stdout>:    Duration of iteration (s)                         : 6.37
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 69 ():
+[0]<stdout>:    Train population | number of data points          : 7.015
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09935613682092556
+[0]<stdout>:    Current_time                                      : 1709741856.7335982
+[0]<stdout>:    Overall time elapsed (min)                        : 6.14
+[0]<stdout>:    Duration of iteration (s)                         : 5.19
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.27
+[0]<stdout>:Metrics at iteration 70 ():
+[0]<stdout>:    Train population | number of data points          : 5.31
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0993400402414487
+[0]<stdout>:    Current_time                                      : 1709741861.0796094
+[0]<stdout>:    Overall time elapsed (min)                        : 6.22
+[0]<stdout>:    Duration of iteration (s)                         : 4.35
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 71 ():
+[0]<stdout>:    Train population | number of data points          : 5.065
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09932394366197184
+[0]<stdout>:    Current_time                                      : 1709741865.1659553
+[0]<stdout>:    Overall time elapsed (min)                        : 6.28
+[0]<stdout>:    Duration of iteration (s)                         : 4.09
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.24
+[0]<stdout>:Metrics at iteration 72 ():
+[0]<stdout>:    Train population | number of data points          : 4.785
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09930784708249497
+[0]<stdout>:    Current_time                                      : 1709741869.1674066
+[0]<stdout>:    Overall time elapsed (min)                        : 6.35
+[0]<stdout>:    Duration of iteration (s)                         : 4.0
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.22
+[0]<stdout>:Metrics at iteration 73 ():
+[0]<stdout>:    Train population | number of data points          : 9.045
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09929175050301811
+[0]<stdout>:    Current_time                                      : 1709741875.3247294
+[0]<stdout>:    Overall time elapsed (min)                        : 6.45
+[0]<stdout>:    Duration of iteration (s)                         : 6.16
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.23
+[0]<stdout>:Metrics at iteration 74 ():
+[0]<stdout>:    Train population | number of data points          : 11.62
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09927565392354125
+[0]<stdout>:    Current_time                                      : 1709741882.3627062
+[0]<stdout>:    Overall time elapsed (min)                        : 6.57
+[0]<stdout>:    Duration of iteration (s)                         : 7.04
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 75 ():
+[0]<stdout>:    Train population | number of data points          : 6.605
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0992595573440644
+[0]<stdout>:    Current_time                                      : 1709741887.8768208
+[0]<stdout>:    Overall time elapsed (min)                        : 6.66
+[0]<stdout>:    Duration of iteration (s)                         : 5.51
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 76 ():
+[0]<stdout>:    Train population | number of data points          : 6.225
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09924346076458752
+[0]<stdout>:    Current_time                                      : 1709741892.5295503
+[0]<stdout>:    Overall time elapsed (min)                        : 6.74
+[0]<stdout>:    Duration of iteration (s)                         : 4.65
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.25
+[0]<stdout>:Metrics at iteration 77 ():
+[0]<stdout>:    Train population | number of data points          : 8.265
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09922736418511066
+[0]<stdout>:    Current_time                                      : 1709741898.084152
+[0]<stdout>:    Overall time elapsed (min)                        : 6.83
+[0]<stdout>:    Duration of iteration (s)                         : 5.55
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 78 ():
+[0]<stdout>:    Train population | number of data points          : 5.005
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09921126760563381
+[0]<stdout>:    Current_time                                      : 1709741902.5189614
+[0]<stdout>:    Overall time elapsed (min)                        : 6.91
+[0]<stdout>:    Duration of iteration (s)                         : 4.43
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.24
+[0]<stdout>:Metrics at iteration 79 ():
+[0]<stdout>:    Train population | number of data points          : 6.96
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09919517102615695
+[0]<stdout>:    Current_time                                      : 1709741907.7168984
+[0]<stdout>:    Overall time elapsed (min)                        : 6.99
+[0]<stdout>:    Duration of iteration (s)                         : 5.2
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.24
+[0]<stdout>:Metrics at iteration 80 ():
+[0]<stdout>:    Train population | number of data points          : 9.945
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09917907444668009
+[0]<stdout>:    Current_time                                      : 1709741914.0132523
+[0]<stdout>:    Overall time elapsed (min)                        : 7.1
+[0]<stdout>:    Duration of iteration (s)                         : 6.3
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 81 ():
+[0]<stdout>:    Train population | number of data points          : 7.915
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09916297786720323
+[0]<stdout>:    Current_time                                      : 1709741919.681176
+[0]<stdout>:    Overall time elapsed (min)                        : 7.19
+[0]<stdout>:    Duration of iteration (s)                         : 5.67
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 82 ():
+[0]<stdout>:    Train population | number of data points          : 7.945
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09914688128772636
+[0]<stdout>:    Current_time                                      : 1709741924.9676123
+[0]<stdout>:    Overall time elapsed (min)                        : 7.28
+[0]<stdout>:    Duration of iteration (s)                         : 5.29
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.26
+[0]<stdout>:Metrics at iteration 83 ():
+[0]<stdout>:    Train population | number of data points          : 10.855
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0991307847082495
+[0]<stdout>:    Current_time                                      : 1709741931.9047294
+[0]<stdout>:    Overall time elapsed (min)                        : 7.4
+[0]<stdout>:    Duration of iteration (s)                         : 6.94
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.28
+[0]<stdout>:Metrics at iteration 84 ():
+[0]<stdout>:    Train population | number of data points          : 9.025
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09911468812877264
+[0]<stdout>:    Current_time                                      : 1709741938.2687128
+[0]<stdout>:    Overall time elapsed (min)                        : 7.5
+[0]<stdout>:    Duration of iteration (s)                         : 6.36
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.3
+[0]<stdout>:Metrics at iteration 85 ():
+[0]<stdout>:    Train population | number of data points          : 10.175
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09909859154929578
+[0]<stdout>:    Current_time                                      : 1709741944.8570178
+[0]<stdout>:    Overall time elapsed (min)                        : 7.61
+[0]<stdout>:    Duration of iteration (s)                         : 6.59
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.31
+[0]<stdout>:Metrics at iteration 86 ():
+[0]<stdout>:    Train population | number of data points          : 7.79
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09908249496981893
+[0]<stdout>:    Current_time                                      : 1709741950.6988235
+[0]<stdout>:    Overall time elapsed (min)                        : 7.71
+[0]<stdout>:    Duration of iteration (s)                         : 5.84
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.32
+[0]<stdout>:Metrics at iteration 87 ():
+[0]<stdout>:    Train population | number of data points          : 6.285
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09906639839034205
+[0]<stdout>:    Current_time                                      : 1709741956.0406363
+[0]<stdout>:    Overall time elapsed (min)                        : 7.8
+[0]<stdout>:    Duration of iteration (s)                         : 5.34
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.32
+[0]<stdout>:Metrics at iteration 88 ():
+[0]<stdout>:    Train population | number of data points          : 5.83
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.0990503018108652
+[0]<stdout>:    Current_time                                      : 1709741960.608341
+[0]<stdout>:    Overall time elapsed (min)                        : 7.87
+[0]<stdout>:    Duration of iteration (s)                         : 4.57
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.31
+[0]<stdout>:Metrics at iteration 89 ():
+[0]<stdout>:    Train population | number of data points          : 7.445
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09903420523138834
+[0]<stdout>:    Current_time                                      : 1709741966.5098956
+[0]<stdout>:    Overall time elapsed (min)                        : 7.97
+[0]<stdout>:    Duration of iteration (s)                         : 5.9
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.31
+[0]<stdout>:Metrics at iteration 90 ():
+[0]<stdout>:    Train population | number of data points          : 10.825
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09901810865191148
+[0]<stdout>:    Current_time                                      : 1709741973.3937595
+[0]<stdout>:    Overall time elapsed (min)                        : 8.09
+[0]<stdout>:    Duration of iteration (s)                         : 6.88
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.33
+[0]<stdout>:Metrics at iteration 91 ():
+[0]<stdout>:    Train population | number of data points          : 6.525
+[0]<stdout>:    Train population | number of devices              : 200.0
+[0]<stdout>:    Train population | total weight                   : 1.0
+[0]<stdout>:    Number of parameters                              : 11185233
+[0]<stdout>:    Learning rate                                     : 0.09900201207243461
+[0]<stdout>:    Current_time                                      : 1709741978.0725114
+[0]<stdout>:    Overall time elapsed (min)                        : 8.16
+[0]<stdout>:    Duration of iteration (s)                         : 4.68
+[0]<stdout>:    Overall average duration of iteration (s)         : 5.32

@@ -1,4 +1,4 @@
-data_path: ./data/cifar10
+data_path: /datasets/cifar10
 seed: 0
 # Which dataset to train on: {cifar10, cifar10_iid, femnist, femnist_digits}.
 dataset: cifar10_iid
@@ -30,7 +30,7 @@ central_num_iterations: 1500
 local_num_epochs: 1
 local_learning_rate: 0.1
 weight_by_samples: false
-evaluation_frequency: 10
+evaluation_frequency: 9999999999999
 local_batch_size: 10
 central_eval_batch_size: 10000
 #save_model_path: './checkpoints'

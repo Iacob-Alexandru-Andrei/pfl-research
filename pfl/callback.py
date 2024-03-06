@@ -505,6 +505,7 @@ class StopwatchCallback(TrainingProcessCallback):
 
         current_time = time.time()
         self._laps.append(current_time - self._lap_start_time)
+        returned_metrics[StringMetricName('current_time')] = current_time
         returned_metrics[StringMetricName(
             'overall time elapsed (min)')] = round(
                 (current_time - self._start_time) / 60, self._decimal_points)
@@ -970,7 +971,7 @@ class TrackBestOverallMetrics(TrainingProcessCallback):
                      str, StringMetricName]]] = None,
                  higher_is_better_metric_names: Optional[List[Union[
                      str, StringMetricName]]] = None,
-                 assert_metrics_found_within_frequency: int = 25):
+                 assert_metrics_found_within_frequency: int = 99999999):
         self._lower_is_better_metric_names = lower_is_better_metric_names or []
         self._higher_is_better_metric_names = higher_is_better_metric_names or []
         self._assert_metrics_found_within_frequency = assert_metrics_found_within_frequency
